@@ -13,6 +13,6 @@ class Employee:
 
 emp_1 = Employee('aar', 'kay')
 
-#print(emp_1.last)
+print(emp_1.last)
 print(emp_1.first)
 print(emp_1.email())
